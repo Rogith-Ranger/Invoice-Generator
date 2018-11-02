@@ -1,5 +1,5 @@
 # guvi-intern
-Internship task by guvi
+Internship task by GUVI
 I have used xampp server so kindly do the following steps:
 Open xampp control panel and run apache server.
 Extract the guvi.rar into C:\xampp\htdocs.
