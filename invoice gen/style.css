@@ -1,0 +1,55 @@
+body{
+    background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+}
+.invoice-form{
+    background: #fff;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 70%;
+    border-radius: 2em;
+}
+.invoice-form .form-control{
+    border-radius:1rem;
+}
+.invoice-image{
+    text-align: center;
+}
+.invoice-image img{
+    border-radius: 6rem;
+    width: 31%;
+    margin-top: 0%;
+    size: 30px;
+    
+}
+.invoice-form form{
+    padding: 14%;
+}
+.invoice-form form .row{
+    margin-bottom: -7%;
+}
+.invoice-form h3{
+    margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+    color: #0062cc;
+}
+.invoice-form .btninvoice {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btninvoiceSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
